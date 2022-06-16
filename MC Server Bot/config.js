@@ -1,5 +1,5 @@
 //Discord Bot Token  //Replace with personal bot token.
-module.exports.token = 'XsNv9Q.ZJ1T_HETUisHSjtO7CFLlRlgk2g';
+module.exports.token = 'OTg2OTkyMTYwNjg5NzcwNTI2.G413_7.7IepszIH_ZiE4rJxZ7218-dRXvX7Iagj1rHJyY';
 
 //Minecraft Server Ip  //replace with hosted MC Server IP
 module.exports.serverIP = 'VictorsMCServer.evils.in';
